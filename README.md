@@ -1,4 +1,4 @@
-# AI Chatbot Project
+# Blue Pilot Setup
 
 ## Prerequisites
 
