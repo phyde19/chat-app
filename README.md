@@ -22,9 +22,9 @@ This command:
 - Builds the container images (`--build`)
 - Runs the containers in detached mode (`-d`)
 
-```
+
 > 🕒 Note! The first build will take longer since it needs to download base images and install dependencies
-```
+
 
 ### Verify Running Containers
 
